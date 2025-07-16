@@ -1,11 +1,12 @@
 import './App.css';
 import './index.css';
+import Home from './modules/home/components/Home';
 
 function App() {
   return (
-    <div className="">
-      ji
-    </div>
+    <>
+      <Home/>
+    </>
   );
 }
 
